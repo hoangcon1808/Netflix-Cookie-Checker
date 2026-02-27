@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1795294751	OptanonAlertBoxClosed	2025-11-21T20:59:11.489Z
+.netflix.com	TRUE	/	FALSE	1795294759	nfvdid	BQFmAAEBELVGctt7NinMj2Ju61TssVhgz9RuiUX1qeLxjPsG3kfnao_RSdWoGYpyBOKMD6X0bE3EUOZJBL2nOdgoMsFtpRIB6qwj9PH0lPxXPyj7I0vkz9B-im6OG974vuQ52rPFX4rMpLGNYYWOe-w3sNfht31g
+.netflix.com	TRUE	/	TRUE	1768336696	gsid	348f4136-938d-419f-ba4c-9db5407ce083
+.netflix.com	TRUE	/	TRUE	1799853359	NetflixId	ct%3DBgjHlOvcAxLlA9aWvFy7lSp9OEy5_FmWjxKjdmU9dlPNwm-3MniDKe3sBPhSzLd8GMBrvMDXXyoKON9vzzLkasTZ9MC0HmTAL5-PaVJ_iFFuZ2Yt8UKPOGOFi8UgQHX2uRqm-zcLUEK7u7twRwSbHw54jgVZSCMfrWRmdEvL3re97rS2B-sT6XKm2TiFVB6dz1KKvUUWAQyD4YeLGliHJVumfseiqgU61zBu0fhYgQccAc_IEoiVtTv9HfQFB9FvxqcRnyFYZ_uoWP0V6GI4xwuna1omBOSYE5jbtIyA1hRUGopYbD58Co-bBlgn073ay_CzIm2lPyjru_z5kidkujeymSxWr8wiO6EujOjB0djk6VRvAp0A5uMEp-Ik-pHNBi2NhtIH2yC5GrIu8ZA2jem5ILFmRtK42xHgWO_CnbQ8VYrFT7_fKPzXqdr9AOAGfcH_Q7dKwm85RiHJDM26kbdH2u8eOFdPKkmmwzYeMYdXvCljqPzL77c92fDpnFi6mgyvVEcxq4smgGeyC8my0SGdRAZChTQ8CTvLx1tsquOhWGnUyZ3AT9bUHMe8vOnOI-zr84op0LNVog9j6Gvzi1bn76vZIo2njNphDOKVU2YnKM91Eh4J3SPobOG2wLP_QgxdL0xsIPydQsCgjT9yGAYiDgoMTD6IKYXhYko2eewA%26ch%3DAQEAEAABABSRiWAhPLyZ5BmR02S9w7rV1yQdz3aVN6c.%26v%3D3%26pg%3D5KUNRLZPANFEJHBAJAUDR4I6OE
+.netflix.com	TRUE	/	FALSE	1799853360	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+13+2026+16%3A16%3A00+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a0abf2e-efcb-4584-a42c-cb001f4c4e57&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B14&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799853359	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR7LvYeA7Ykkf29BfqF37u6m6NcsgAN5bA.%26dt%3D1768317357283
+.netflix.com	TRUE	/	FALSE	1776093359	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1776093359	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1776093359	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1768320952	profilesNewSession	0    

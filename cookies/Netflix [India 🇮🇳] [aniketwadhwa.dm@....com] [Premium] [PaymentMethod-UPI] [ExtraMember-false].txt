@@ -1,0 +1,10 @@
+secured.netflix.com	FALSE	/	TRUE	1791127340	thx_guid	d57a1d8084e70802a0528bee72cd03e0
+secured.netflix.com	FALSE	/	TRUE	1791127467	tmx_guid	AAz9rt91G6SdSU-glyhEbVRnMkGmqvqaz_e6HCXL_1337D3Zb8zhEQhnoiD6euVE_jwQywM6hmOqppZamtEPpffkkNVnmA
+.netflix.com	TRUE	/	FALSE	1788103664	nfvdid	BQFmAAEBEOLYLssrwpdbiQfEl7kbz-9gdmT9I6X5o3IxJIDEdFuC1P4-VW629OGri3mblCwFile--WvFh1k6y3mIPAG7qJBESR07xE6GSVU6c5l59at7-sotzK8qjOPTeCMb8XIcu7BP5wx6v1SvhHN0PSiPDOCi
+.netflix.com	TRUE	/	TRUE	1801047770	NetflixId	ct%3DBgjHlOvcAxL-AynFPbUIHBWars7-6u2SUDrNeiA7wbVlByh_7i5ZCXBS57svYk9JGxPtx8keGUYjqOW_ZA4-8fBmmzLeQkr_PNuLfdc8hcAcTnhjaejKicr72qIGLQfnRy1sA8jxMKhNUMGkS5mPcmFW8OIVS0ybxt1vLk_OPR-t-5lyvGL1kNufbgW5nF9-l1BYlts2iVPo1FYlV2v4BvYnHYaE6Y2y6qACGJntHW8P7uH29saCLBeBbwbIQNtdKlzMH7Oe6zDJfc9sBmTPxdAZhFJacNSk5n2j8mJW6nEJzQlU1ccRTzikpQuCWPwiwG6Cae0Qzxy7oYHPkPIia0tDa6QNi9fp90RnaSJ0hHqJvFHiuV-Y_gEjrm-_qoLrHr9Xyv16dLmMTy-KtWTR4OD8-XMKtdaAEgqPiCBLNIVwxD4Oc1j5PIBNTJoLmrsr4r91ygYKsC87__X7ZCcCoa1wvQYtwArbKYjy7wnur9RPVAcLGKFfW4l1Pmnj6AVKGFzojDZlX_cm99C2GTnCZDdVVQBQLv_WGtii9sxPxehPVh8imql-nkrpsBU1vWjE2Mhuc0ohQe3-NeIZ4_RqNYEjlXzKrpQRDNnByDeBZEBcsmKizbAYH3PyKyKPhGMVIxUh-HkVRwDhtBXhCN8bDr91IdjzSwtWwpneo8xEluWZ9Ee3JTCLYRgGIg4KDPuVVg3Qm5J4Oaqlsg..%26ch%3DAQEAEAABABTkT0QGnxqPI7qBlO7qXJm8rqBu5jPAG2g.%26v%3D3%26pg%3DHVYQMBCIJFAKPECRMCOH7UVYK4
+.netflix.com	TRUE	/	TRUE	1801047770	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQNwX06zXQdF_nlK1PmoxPNMmdPZUBpPY4.%26dt%3D1769511584456
+.netflix.com	TRUE	/	TRUE	1769598170	gsid	c3021ba5-189b-4a8c-a5d9-cd481ab87b68
+.netflix.com	TRUE	/	FALSE	1801055607	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+18%3A43%3A27+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=64199939-2c10-4c4b-a992-e141365102d1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1777295607	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1777295607	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1769524251	profilesNewSession	0    

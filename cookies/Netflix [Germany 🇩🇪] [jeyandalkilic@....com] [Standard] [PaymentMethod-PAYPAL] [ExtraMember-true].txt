@@ -1,0 +1,12 @@
+secured.netflix.com	FALSE	/	TRUE	1792361306	thx_guid	be56a4e2517a730368d1abe8df2baebe
+secured.netflix.com	FALSE	/	TRUE	1792361419	tmx_guid	AAwdcTVXjSPH3T-6UqOXYLGwWUB06aGqim270zMHbwZYjzyXTvQNvCEe6rTXYpmvHLHlWiqV0EzOwHRtnxynjrRbGgiiBQ
+.netflix.com	TRUE	/	FALSE	1800144320	OptanonAlertBoxClosed	2026-01-17T00:05:20.024Z
+.netflix.com	TRUE	/	FALSE	1769650605	flwssn	7270efb1-eb8e-4a92-8091-2e5796c18cf7
+.netflix.com	TRUE	/	TRUE	1769726205	gsid	1b11b246-ece8-4245-816e-2df803952ba5
+.netflix.com	TRUE	/	TRUE	1801175839	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Aiqdx3xdtXi0Fb9J_VgjgF1dfTnumaOxz5OvfIOcsqPePxU5L5nwRkFMA2wcS5chkjv46ZTOiKwZr3tn3G8IyNaewvKRxicaPPaep74uexLuCmw0t24Oorw0aXY3DhyOuzaz7ROmP8OEGVHCOdrx-gaUE22YFU4v2eryoTC9vTXVUpp8-3Vj5Zg800sDHWAykwnOeNaF4zvUQkyGwscbwvsA5RWgF7OAImEpTLIRPAbf7PS7mssJVZ0e1wWybcfDMBP9UjrmzLVtW9CVybJI9Pb0O7X_22P9kwT8XOGmDOpJp7a9GQUx3WhNSGTbRNAlcJd5CBRSQty9K2J2vf_cv1d3D5TAOCKwAIUc8F4TInjjHq8ku4cE5xbo_Z2Hm8aNKjjlxYjpEer3GUYGpBR_ptGtb3HG6CEhG7abd_QyI6-esxN7GjTUcJflQVeWACotE99P3TcDxOVGYdhCverl5x5B_JLJSce5krud_CiWXoyG_AFESICH3dLPUB8YBiIOCgzH5I2bO41i6L2mZlU.%26pg%3DBSQATOX4B5ECLL6UWDKZCIWAOY%26ch%3DAQEAEAABABRnjnc-zst3m0zVhASBQtwu5G-EQ8BGTpY.
+.netflix.com	TRUE	/	FALSE	1801175840	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+28+2026+23%3A37%3A20+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e26314f4-8d81-4f2e-ac70-6ced736350d4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768608320365&AwaitingReconsent=false&intType=1&geolocation=DE%3BBW
+.netflix.com	TRUE	/	TRUE	1801175839	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS2WBHW7TYly1x4X69Do38d-E3S1Ydo3zg.%26dt%3D1769639839886
+.netflix.com	TRUE	/	FALSE	1777415840	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1777415840	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801175837	nfvdid	BQFmAAEBEOREQuTTiDADs-LW_u74pZ5givB0RoOQty-UC_0pweqy6T_EbWmlo2FduvdFHoruBAisIqt93XacECqSLEy9ZRQASi2Eh-_PIsEpLvo1gh_DuFo_MN92ksC5wcxsiD8aOg-txX0eO_54C-dIklE6GPpI
+.netflix.com	TRUE	/	FALSE	1769645914	profilesNewSession	0    
